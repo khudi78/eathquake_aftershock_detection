@@ -1,0 +1,40 @@
+# Node / React stuff
+node_modules/
+dist/
+.vite/
+.env
+.DS_Store
+
+# Python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build artifacts
+build/
+*.egg-info/
+*.egg
+
+# ML / Data files
+# Do NOT ignore .pkl if you are tracking it with Git LFS
+# *.pkl
+
+# Ignore other data files you don't want in repo
+*.csv
+*.h5
+*.npy
+*.npz
+
+# Ignore any secrets
+*.env
