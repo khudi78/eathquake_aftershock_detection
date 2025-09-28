@@ -1,4 +1,4 @@
-# 🌎 Earthquake Aftershock Prediction
+# 🌎 Earthquake Aftershock Detection
 
 ## Overview
 This project predicts whether an earthquake event will trigger an **aftershock** and estimates the **magnitude** of the aftershock if it occurs. It uses a combination of **classification** and **regression** machine learning models.
